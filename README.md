@@ -49,7 +49,9 @@ To run this project, make sure you have the following dependencies installed: <b
 1.	<h2>Set Up API Keys:</h2> Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
 2.	<h2>Run the Code:</h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
 3.	<h2>Explore Results:</h2> Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
- 
+
+# Runt the script
+<img src="https://github.com/pks891618/readmefile/assets/46920172/2eeceb3e-f6eb-4a26-9bdf-4277d44f5461" alt="Image" style="width: 400px; height: 300px;" />
 
 # Contributing 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
