@@ -5,7 +5,20 @@ To run the project, ensure you have the necessary dependencies installed. You ca
 Make sure to replace requirements.txt with the actual name of your requirements file if it differs. <br>
 
 # Usage
-To run this project, make sure you have the following dependencies installed:
+To run this project, make sure you have the following dependencies installed: <br>
+<ul>
+  <li>yfinance</li>
+  <li>alpaca_trade_api</li>
+  <li>yahoo_fin</li>
+  <li>pandas</li>
+  <li>hvplot</li>
+  <li>requests-html</li>
+  <li>tensorflow</li>
+  <li>scikit-learn</li>
+  <li>matplotlib</li>
+  <li>holoviews</li>
+</ul>
+
 # Stock Price Prediction Python Project
 This Python project aims to predict stock prices using machine learning techniques. The project utilizes historical stock price data, options data, and energy commodity prices to train a predictive model. The prediction model is built using TensorFlow and Keras libraries, and the data is fetched from various sources including Alpaca API, Yahoo Finance, and Yahoo Finance Options.
 Purpose
