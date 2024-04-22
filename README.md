@@ -3,8 +3,8 @@ Clone the repo first with git clone URl of the repo. <br>
 To run the project, ensure you have the necessary dependencies installed. You can install them using pip: <br>
 <h2>pip install -r requirements.txt </h2> <br>
 Make sure to replace requirements.txt with the actual name of your requirements file if it differs.
-
-
+# Usage
+To run this project, make sure you have the following dependencies installed:
 # Stock Price Prediction Python Project
 This Python project aims to predict stock prices using machine learning techniques. The project utilizes historical stock price data, options data, and energy commodity prices to train a predictive model. The prediction model is built using TensorFlow and Keras libraries, and the data is fetched from various sources including Alpaca API, Yahoo Finance, and Yahoo Finance Options.
 Purpose
