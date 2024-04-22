@@ -56,9 +56,9 @@ To run this project, make sure you have the following dependencies installed:
 •	matplotlib
 •	holoviews
 
-1.	Set Up API Keys: Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
-2.	Run the Code: Execute the Python script to fetch data, train the machine learning model, and make predictions.
-3.	Explore Results: Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
+1.	<h2>Set Up API Keys:</h2> Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
+2.	<h2>Run the Code:</h2>h2></h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
+3.	<h2>Explore Results:</h2> Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
  
 
 Contributing
