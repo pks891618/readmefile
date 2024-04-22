@@ -36,7 +36,7 @@ The algorithm used in this project is a deep neural network regression model imp
 5.	Model Evaluation: The trained model is evaluated on the testing dataset to assess its performance using the mean squared error metric.
 6.	Visualization: Various visualizations such as training and validation loss plots, actual vs predicted stock price plots, energy prices plots, and standard deviation plots are generated to analyze the results.
 
-Features
+# Features
 •	Data Retrieval: Utilizes APIs and libraries such as Yahoo Finance, Alpaca Trade API, and Yahoo_fin to fetch historical stock data.
 •	Options Data Analysis: Extracts and analyzes options data using Yahoo_fin library to identify potential market trends.
 •	Energy Prices Comparison: Compares and analyzes the spot prices of crude oil, natural gas, and coal alongside stock prices for comprehensive insights.
