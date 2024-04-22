@@ -1,24 +1,3 @@
-# Installation
-Clone the repo first with git clone URl of the repo. <br>
-To run the project, ensure you have the necessary dependencies installed. You can install them using pip: <br>
-<h2>pip install -r requirements.txt </h2> <br>
-Make sure to replace requirements.txt with the actual name of your requirements file if it differs. <br>
-
-# Usage
-To run this project, make sure you have the following dependencies installed: <br>
-<ul>
-  <li>yfinance</li>
-  <li>alpaca_trade_api</li>
-  <li>yahoo_fin</li>
-  <li>pandas</li>
-  <li>hvplot</li>
-  <li>requests-html</li>
-  <li>tensorflow</li>
-  <li>scikit-learn</li>
-  <li>matplotlib</li>
-  <li>holoviews</li>
-</ul>
-
 # Stock Price Prediction Python Project
 This Python project aims to predict stock prices using machine learning techniques. The project utilizes historical stock price data, options data, and energy commodity prices to train a predictive model. The prediction model is built using TensorFlow and Keras libraries, and the data is fetched from various sources including Alpaca API, Yahoo Finance, and Yahoo Finance Options.
 
@@ -44,6 +23,28 @@ The algorithm used in this project is a deep neural network regression model imp
   <li>Machine Learning Model: Constructs a machine learning model using TensorFlow and Keras to predict future stock prices based on historical data.</li>
   <li>Visualization: Employs visualization libraries such as Matplotlib and HoloViews to visualize stock prices, percentage changes, and standard deviations for better understanding and analysis.</li>
 </ul>
+
+# Installation
+Clone the repo first with git clone URl of the repo. <br>
+To run the project, ensure you have the necessary dependencies installed. You can install them using pip: <br>
+<h2>pip install -r requirements.txt </h2> <br>
+Make sure to replace requirements.txt with the actual name of your requirements file if it differs. <br>
+
+# Usage
+To run this project, make sure you have the following dependencies installed: <br>
+<ul>
+  <li>yfinance</li>
+  <li>alpaca_trade_api</li>
+  <li>yahoo_fin</li>
+  <li>pandas</li>
+  <li>hvplot</li>
+  <li>requests-html</li>
+  <li>tensorflow</li>
+  <li>scikit-learn</li>
+  <li>matplotlib</li>
+  <li>holoviews</li>
+</ul>
+
 
 1.	<h2>Set Up API Keys:</h2> Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
 2.	<h2>Run the Code:</h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
