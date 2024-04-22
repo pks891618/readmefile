@@ -42,22 +42,6 @@ The algorithm used in this project is a deep neural network regression model imp
 •	Energy Prices Comparison: Compares and analyzes the spot prices of crude oil, natural gas, and coal alongside stock prices for comprehensive insights.
 •	Machine Learning Model: Constructs a machine learning model using TensorFlow and Keras to predict future stock prices based on historical data.
 •	Visualization: Employs visualization libraries such as Matplotlib and HoloViews to visualize stock prices, percentage changes, and standard deviations for better understanding and analysis.
-Installation
-To run the project, ensure you have the necessary dependencies installed. You can install them using pip:
-!pip install -r requirements.txt 
-Make sure to replace requirements.txt with the actual name of your requirements file if it differs.
-Usage
-To run this project, make sure you have the following dependencies installed:
-•	yfinance
-•	alpaca_trade_api
-•	yahoo_fin
-•	pandas
-•	hvplot
-•	requests-html
-•	tensorflow
-•	scikit-learn
-•	matplotlib
-•	holoviews
 
 1.	<h2>Set Up API Keys:</h2> Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
 2.	<h2>Run the Code:</h2>h2></h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
