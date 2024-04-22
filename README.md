@@ -1,4 +1,4 @@
-# installation
+# Installation
 Clone the repo first git clone 
 
 
