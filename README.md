@@ -1,5 +1,5 @@
 # Installation
-Clone the repo first git clone 
+Clone the repo first git clone <br>
 To run the project, ensure you have the necessary dependencies installed. You can install them using pip:
 
 
