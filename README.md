@@ -29,12 +29,12 @@ The purpose of this project is to develop a predictive model for stock prices, s
 The algorithm used in this project is a deep neural network regression model implemented using TensorFlow and Keras. The model architecture consists of multiple dense layers with ReLU activation functions. The model is trained to minimize the mean squared error loss function, and the Adam optimizer is used for optimization.
 
 # Steps Involved
-1.	Data Collection: Historical stock price data is collected from the Alpaca API, options data is fetched using Yahoo Finance Options, and energy commodity prices are obtained from Yahoo Finance.
-2.	Data Preprocessing: The collected data is preprocessed, which includes cleaning, scaling, and splitting into training and testing sets.
-3.	Model Building: A neural network regression model is built using TensorFlow and Keras libraries. The model architecture consists of multiple dense layers.
-4.	Model Training: The model is trained on the training dataset using the Adam optimizer and mean squared error loss function.
-5.	Model Evaluation: The trained model is evaluated on the testing dataset to assess its performance using the mean squared error metric.
-6.	Visualization: Various visualizations such as training and validation loss plots, actual vs predicted stock price plots, energy prices plots, and standard deviation plots are generated to analyze the results.
+1.	<h5>Data Collection:</h5> Historical stock price data is collected from the Alpaca API, options data is fetched using Yahoo Finance Options, and energy commodity prices are obtained from Yahoo Finance.
+2.	<h5>Data Preprocessing:</h5> The collected data is preprocessed, which includes cleaning, scaling, and splitting into training and testing sets.
+3.	<h5>Model Building:</h5> A neural network regression model is built using TensorFlow and Keras libraries. The model architecture consists of multiple dense layers.
+4.	<h5>Model Training:</h5> The model is trained on the training dataset using the Adam optimizer and mean squared error loss function.
+5.	<h5>Model Evaluation:</h5> The trained model is evaluated on the testing dataset to assess its performance using the mean squared error metric.
+6.	<h5>Visualization:</h5> Various visualizations such as training and validation loss plots, actual vs predicted stock price plots, energy prices plots, and standard deviation plots are generated to analyze the results.
 
 # Features
 •	Data Retrieval: Utilizes APIs and libraries such as Yahoo Finance, Alpaca Trade API, and Yahoo_fin to fetch historical stock data.
