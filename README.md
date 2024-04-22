@@ -61,14 +61,17 @@ To run this project, make sure you have the following dependencies installed:
 3.	<h2>Explore Results:</h2> Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
  
 
-Contributing
+# Contributing 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
-•	Yahoo Finance
-•	Alpaca Trade API
-•	Yahoo_fin
-•	TensorFlow
-•	HoloViews
+# Acknowledgments
+<ul>
+  <li><a href="https://finance.yahoo.com/">Yahoo Finance</a></li>
+  <li><a href="https://alpaca.markets/docs/">Alpaca Trade API</a></li>
+  <li><a href="https://pypi.org/project/yahoo-fin/">Yahoo_fin</a></li>
+  <li><a href="https://www.tensorflow.org/">TensorFlow</a></li>
+  <li><a href="http://holoviews.org/">HoloViews</a></li>
+</ul>
+
  
