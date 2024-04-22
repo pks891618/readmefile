@@ -50,7 +50,7 @@ To run this project, make sure you have the following dependencies installed: <b
 2.	<h2>Run the Code:</h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
 3.	<h2>Explore Results:</h2> Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
 
-# Runt the script
+# Run the script
 <img src="https://github.com/pks891618/readmefile/assets/46920172/b7c436e1-8df9-4e56-83c7-9b8fdb475d20" alt="Image" style="width:1000px; height: 500px;" />
 
 # Contributing 
