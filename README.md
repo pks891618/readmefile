@@ -51,7 +51,7 @@ To run this project, make sure you have the following dependencies installed: <b
 3.	<h2>Explore Results:</h2> Analyze the output, including predicted stock prices, visualizations, and performance metrics of the machine learning model.
 
 # Runt the script
-<img src="https://github.com/pks891618/readmefile/assets/46920172/2eeceb3e-f6eb-4a26-9bdf-4277d44f5461" alt="Image" style="width: 400px; height: 300px;" />
+<img src="https://github.com/pks891618/readmefile/assets/46920172/b7c436e1-8df9-4e56-83c7-9b8fdb475d20" alt="Image" style="width: 400px; height: 300px;" />
 
 # Contributing 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
