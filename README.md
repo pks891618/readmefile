@@ -37,11 +37,13 @@ The algorithm used in this project is a deep neural network regression model imp
 6.	Visualization: Various visualizations such as training and validation loss plots, actual vs predicted stock price plots, energy prices plots, and standard deviation plots are generated to analyze the results.
 
 # Features
-•	Data Retrieval: Utilizes APIs and libraries such as Yahoo Finance, Alpaca Trade API, and Yahoo_fin to fetch historical stock data.
-•	Options Data Analysis: Extracts and analyzes options data using Yahoo_fin library to identify potential market trends.
-•	Energy Prices Comparison: Compares and analyzes the spot prices of crude oil, natural gas, and coal alongside stock prices for comprehensive insights.
-•	Machine Learning Model: Constructs a machine learning model using TensorFlow and Keras to predict future stock prices based on historical data.
-•	Visualization: Employs visualization libraries such as Matplotlib and HoloViews to visualize stock prices, percentage changes, and standard deviations for better understanding and analysis.
+<ul>
+  <li>Data Retrieval: Utilizes APIs and libraries such as Yahoo Finance, Alpaca Trade API, and Yahoo_fin to fetch historical stock data.</li>
+  <li>Options Data Analysis: Extracts and analyzes options data using Yahoo_fin library to identify potential market trends.</li>
+  <li>Energy Prices Comparison: Compares and analyzes the spot prices of crude oil, natural gas, and coal alongside stock prices for comprehensive insights.</li>
+  <li>Machine Learning Model: Constructs a machine learning model using TensorFlow and Keras to predict future stock prices based on historical data.</li>
+  <li>Visualization: Employs visualization libraries such as Matplotlib and HoloViews to visualize stock prices, percentage changes, and standard deviations for better understanding and analysis.</li>
+</ul>
 
 1.	<h2>Set Up API Keys:</h2> Obtain API keys for services like Alpaca and ensure they are correctly configured in the environment file (alpaca.env).
 2.	<h2>Run the Code:</h2> Execute the Python script to fetch data, train the machine learning model, and make predictions.
