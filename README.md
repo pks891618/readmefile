@@ -63,10 +63,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
   <li><a href="https://www.tensorflow.org/">TensorFlow</a></li>
   <li><a href="http://holoviews.org/">HoloViews</a></li>
 </ul>
-<img src="https://github.com/pks891618/readmefile/assets/46920172/7ba45808-d8c6-4ce1-8f43-ec54a838efde" alt="Image1" style="width: 200px; height: 150px;" />
-<img src="https://github.com/pks891618/readmefile/assets/46920172/b92874a7-c1ca-4ecc-bc4e-ff4ba41c351c" alt="Image2" style="width: 200px; height: 150px;" />
-<img src="https://github.com/pks891618/readmefile/assets/46920172/e4969255-75de-46b9-bb35-148c25f8c559" alt="Image3" style="width: 200px; height: 150px;" />
-<img src="https://github.com/pks891618/readmefile/assets/46920172/3d651c81-d710-41c5-b4fb-80fca1aff465" alt="Image4" style="width: 200px; height: 150px;" />
+<img src="https://github.com/pks891618/readmefile/assets/46920172/7ba45808-d8c6-4ce1-8f43-ec54a838efde" alt="Image1" style="width: 400px; height: 300px;" />
+<img src="https://github.com/pks891618/readmefile/assets/46920172/b92874a7-c1ca-4ecc-bc4e-ff4ba41c351c" alt="Image2" style="width: 400px; height: 300px;" />
+<img src="https://github.com/pks891618/readmefile/assets/46920172/e4969255-75de-46b9-bb35-148c25f8c559" alt="Image3" style="width: 400px; height: 300px;" />
+<img src="https://github.com/pks891618/readmefile/assets/46920172/3d651c81-d710-41c5-b4fb-80fca1aff465" alt="Image4" style="width: 400px; height: 300px;" />
 
 
 
