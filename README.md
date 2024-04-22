@@ -21,11 +21,14 @@ To run this project, make sure you have the following dependencies installed: <b
 
 # Stock Price Prediction Python Project
 This Python project aims to predict stock prices using machine learning techniques. The project utilizes historical stock price data, options data, and energy commodity prices to train a predictive model. The prediction model is built using TensorFlow and Keras libraries, and the data is fetched from various sources including Alpaca API, Yahoo Finance, and Yahoo Finance Options.
-Purpose
+
+# Purpose
 The purpose of this project is to develop a predictive model for stock prices, specifically focusing on the energy sector represented by the ticker symbol "XLE." By analyzing historical data and employing machine learning algorithms, the project endeavors to forecast future price movements, aiding investors in making informed decisions.
-Algorithm Used
+
+# Algorithm Used
 The algorithm used in this project is a deep neural network regression model implemented using TensorFlow and Keras. The model architecture consists of multiple dense layers with ReLU activation functions. The model is trained to minimize the mean squared error loss function, and the Adam optimizer is used for optimization.
-Steps Involved
+
+# Steps Involved
 1.	Data Collection: Historical stock price data is collected from the Alpaca API, options data is fetched using Yahoo Finance Options, and energy commodity prices are obtained from Yahoo Finance.
 2.	Data Preprocessing: The collected data is preprocessed, which includes cleaning, scaling, and splitting into training and testing sets.
 3.	Model Building: A neural network regression model is built using TensorFlow and Keras libraries. The model architecture consists of multiple dense layers.
